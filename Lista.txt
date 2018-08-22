@@ -5,7 +5,7 @@ Visca, Ramiro (xxxxxx) -> Usuario Github: ramiroviszan
 Allia Cavallo, Luciano Paolo (169748) -> Usuario Github:
 Amado Landoni, José Pedro (188885) -> Usuario Github:
 Arriondo Combe, Matías Gabriel (191113) -> Usuario Github:
-Barreira Marichal, Carmen Silvana (199283) -> Usuario Github:
+Barreira Marichal, Carmen Silvana (199283) -> Usuario Github: CarmenBarreira
 Buono Puente, Gonzalo Andres (201476) -> Usuario Github:
 Calvete Steffen, Guillermo Andrés (163192) -> Usuario Github:
 Camaño Rodriguez, Gonzalo Rafael (184765) -> Usuario Github:
@@ -13,7 +13,7 @@ Dodel Kohn, Daniela Sara (166689) -> Usuario Github:
 Elizalde Gauthier, María Noel (171010) -> Usuario Github:
 Erlich Velázquez, Maximiliano  (143216) -> Usuario Github:
 Fabiano Pigatto, Bruno Nicolás (147478) -> Usuario Github:
-Fasoli Gómez, Josefina  (176737) -> Usuario Github:
+Fasoli Gómez, Josefina  (176737) -> Usuario Github: Josefina176737
 Fernández Echeverría, Ulises  (109679) -> Usuario Github:
 Ferreira Suarez, Juan Manuel (203664) -> Usuario Github:
 García da Silva Tavares, Sofía Inés (187588) -> Usuario Github:
